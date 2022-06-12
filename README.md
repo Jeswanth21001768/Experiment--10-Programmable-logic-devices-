@@ -104,4 +104,4 @@ endmodule
 
 ### RESULTS 
 
-Thus the program to design a programmable logical device is done successul.
+Thus the program to design a programmable logical device is done successfully.
